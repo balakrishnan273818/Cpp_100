@@ -1,0 +1,10 @@
+The Broken are the more Evolved
+
+1) While loops should always have an increment operator inside it or else we'll
+stuck inside a never ending loop.
+2) variable used for certain temporary operation within a loop should always be reinitializaed 
+before its next use
+3) no body can write a perfect fuction on one go
+4) understanding even the most complex of the test cases is half job done
+5) if u use modulo operator the result will be either 0 or 1 depending upon the input
+6) if u use division operator the result is the quotient
